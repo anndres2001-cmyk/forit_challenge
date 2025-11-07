@@ -1,7 +1,7 @@
 # ForIT Tasks - Aplicación de Gestión de Tareas
 Challenge de Ingreso a la Academia ForIT 2025
 Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do List) desarrollada para cumplir con los requisitos del Challenge de Ingreso 2025.
-## Características Principales
+## Características principales
 | Característica | Estado | Requisito | Descripción |
 |----------------|---------|------------|--------------|
 | CRUD Completo | Completado | Obligatorio | Crear, Leer, Actualizar y Eliminar tareas. |
@@ -10,7 +10,7 @@ Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do Li
 | Control de Tareas | Implementado | Bonus Opcional | Funcionalidad de marcar tareas como Completadas / Pendientes. |
 | Almacenamiento | Completado | Obligatorio | Uso de un array en memoria (variable tasks en server.js). |
 | Estilos | Implementado | Obligatorio | Uso de Bootstrap y CSS básico. |
-## Tecnologías Utilizadas
+## Tecnologías utilizadas
 | Componente | Tecnología |
 |-------------|-------------|
 | Backend (API) | Node.js |
@@ -18,9 +18,9 @@ Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do Li
 | Frontend (UI) | React + Vite |
 | Estilos | Bootstrap 5.3 + Icons |
 | Entorno | Git / GitHub | 
-## Instrucciones de Ejecución Local
+## Instrucciones de ejecución local
 Para correr la aplicación en tu entorno local, debés ejecutar el Backend y el Frontend en terminales separadas, ya que son dos aplicaciones independientes.
-### 1. Configuración Inicial
+### 1. Configuración inicial
 Clonar el Repositorio:
 git clone https://github.com/anndres2001-cmyk/forit_challenge.git
 cd forit_challenge
@@ -52,15 +52,15 @@ http://localhost:5173
 
 [Principal](https://github.com/user-attachments/assets/44e164e1-c965-458c-897e-72ae7fd6e356)
 
-## Puntos Extra y Mejoras Implementadas
+## Mejores implementadas
 Además de los requisitos obligatorios, se añadieron las siguientes funcionalidades y mejoras:  
-- Autenticación Dinámica: El endpoint /api/auth en server.js maneja el registro y login. Permite que cualquier nuevo par (usuario, contraseña) sea registrado si el usuario no existe.  
-- Funcionalidad Done: Se agregó el campo done en el backend y la lógica de toggle en el frontend, incluyendo:  
+- Autenticación dinámica: El endpoint /api/auth en server.js maneja el registro y login. Permite que cualquier nuevo par (usuario, contraseña) sea registrado si el usuario no existe.  
+- Funcionalidad done: Se agregó el campo done en el backend y la lógica de toggle en el frontend, incluyendo:  
   - Tachado visual en TaskList.jsx.  
   - Deshabilitación del botón Editar para tareas completadas.  
-- Mejoras de Diseño (Bootstrap):  
+- Mejoras de diseño (Bootstrap):  
   - Diseño responsivo de tres columnas en App.jsx.  
   - Integración de un calendario mensual básico en el sidebar.  
   - Uso de clases CSS personalizadas y un icono como logo de ForIT.  
-- Validación Básica: El formulario de login y el formulario de tareas incluyen validación básica de campos vacíos.
+- Validación básica: El formulario de login y el formulario de tareas incluyen validación básica de campos vacíos.
 Proyecto realizado como parte del Challenge de Ingreso a la Academia ForIT 2025.
