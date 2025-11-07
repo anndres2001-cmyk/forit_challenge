@@ -11,13 +11,13 @@ Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do Li
 | Almacenamiento | Completado | Obligatorio | Uso de un array en memoria (variable tasks en server.js). |
 | Estilos | Implementado | Obligatorio | Uso de Bootstrap y CSS básico. |
 ## Tecnologías Utilizadas
-| Componente | Tecnología | Versión / Notas |
-|-------------|-------------|----------------|
-| Backend (API) | Node.js | v18+ |
-| Framework Web | Express | - |
-| Frontend (UI) | React + Vite | - |
-| Estilos | Bootstrap 5.3 + Icons | - |
-| Entorno | Git / GitHub | - |
+| Componente | Tecnología |
+|-------------|-------------|
+| Backend (API) | Node.js |
+| Framework Web | Express |
+| Frontend (UI) | React + Vite |
+| Estilos | Bootstrap 5.3 + Icons |
+| Entorno | Git / GitHub | 
 ## Instrucciones de Ejecución Local
 Para correr la aplicación en tu entorno local, debés ejecutar el Backend y el Frontend en terminales separadas, ya que son dos aplicaciones independientes.
 ### 1. Configuración Inicial
