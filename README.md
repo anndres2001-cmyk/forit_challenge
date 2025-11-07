@@ -47,13 +47,10 @@ Verificación: La aplicación se abrirá en tu navegador, normalmente en:
 http://localhost:5173
 ## Capturas de Pantalla de la Aplicación
 
-1. Pantalla de Inicio  
-La aplicación inicia con una pantalla de autenticación. Si el usuario no existe, se registra automáticamente.  
-![Pantalla de Inicio](https://raw.githubusercontent.com/anndres2001-cmyk/forit_challenge/main/assets/Inicio.JPG)
+[Inicio](https://github.com/user-attachments/assets/039af8dc-7e9b-42cc-b20c-c08e0da2d5fa)
 
-2. Panel Principal (Dashboard)  
-Vista del panel principal con el diseño de tres columnas, el nuevo calendario mensual y la información del usuario. La funcionalidad de Tarea Completada está activa en esta vista.  
-![Panel Principal](https://raw.githubusercontent.com/anndres2001-cmyk/forit_challenge/main/assets/Principal.JPG)
+
+[Principal](https://github.com/user-attachments/assets/44e164e1-c965-458c-897e-72ae7fd6e356)
 
 ## Puntos Extra y Mejoras Implementadas
 Además de los requisitos obligatorios, se añadieron las siguientes funcionalidades y mejoras:  
