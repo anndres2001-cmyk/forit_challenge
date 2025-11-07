@@ -46,12 +46,15 @@ npm run dev
 Verificación: La aplicación se abrirá en tu navegador, normalmente en:
 http://localhost:5173
 ## Capturas de Pantalla de la Aplicación
+
 1. Pantalla de Inicio  
 La aplicación inicia con una pantalla de autenticación. Si el usuario no existe, se registra automáticamente.  
-![Pantalla de Inicio](https://github.com/anndres2001-cmyk/forit_challenge/blob/main/assets/Inicio.JPG?raw=true)
+![Pantalla de Inicio](https://raw.githubusercontent.com/anndres2001-cmyk/forit_challenge/main/assets/Inicio.JPG)
+
 2. Panel Principal (Dashboard)  
 Vista del panel principal con el diseño de tres columnas, el nuevo calendario mensual y la información del usuario. La funcionalidad de Tarea Completada está activa en esta vista.  
-![Panel Principal](https://github.com/anndres2001-cmyk/forit_challenge/blob/main/assets/Principal.JPG?raw=true)
+![Panel Principal](https://raw.githubusercontent.com/anndres2001-cmyk/forit_challenge/main/assets/Principal.JPG)
+
 ## Puntos Extra y Mejoras Implementadas
 Además de los requisitos obligatorios, se añadieron las siguientes funcionalidades y mejoras:  
 - Autenticación Dinámica: El endpoint /api/auth en server.js maneja el registro y login. Permite que cualquier nuevo par (usuario, contraseña) sea registrado si el usuario no existe.  
