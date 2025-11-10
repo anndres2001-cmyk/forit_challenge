@@ -4,10 +4,10 @@ Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do Li
 ## Características principales
 | Característica | Estado | Requisito | Descripción |
 |----------------|---------|------------|--------------|
-| CRUD Completo | Completado | Obligatorio | Crear, Leer, Actualizar y Eliminar tareas. |
+| CRUD completo | Completado | Obligatorio | Crear, Leer, Actualizar y Eliminar tareas. |
 | API RESTful | Completado | Obligatorio | Servidor Express con endpoints dedicados. |
-| Autenticación Abierta | Implementado | Bonus / Mejora | Permite el registro automático con cualquier credencial nueva. |
-| Control de Tareas | Implementado | Bonus Opcional | Funcionalidad de marcar tareas como Completadas / Pendientes. |
+| Autenticación abierta | Implementado | Bonus / Mejora | Permite el registro automático con cualquier credencial nueva. |
+| Control de tareas | Implementado | Bonus Opcional | Funcionalidad de marcar tareas como Completadas / Pendientes. |
 | Almacenamiento | Completado | Obligatorio | Uso de un array en memoria (variable tasks en server.js). |
 | Estilos | Implementado | Obligatorio | Uso de Bootstrap y CSS básico. |
 ## Tecnologías utilizadas
