@@ -20,15 +20,12 @@ Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do Li
 | Entorno | Git / GitHub | 
 ## Instrucciones de ejecución local
 Para correr la aplicación en tu entorno local, debés ejecutar el Backend y el Frontend en terminales separadas, ya que son dos aplicaciones independientes.
+
 ### 1. Configuración inicial
 Clonar el Repositorio:
 git clone https://github.com/anndres2001-cmyk/forit_challenge.git
 cd forit_challenge
-Estructura del Proyecto:
-forit_challenge/
-├── backend/      # Contiene server.js (Node/Express)
-├── frontend/     # Contiene App.jsx, componentes y package.json (React/Vite)
-└── assets/       # Contiene las capturas de pantalla para este README
+
 ### 2. Iniciar el Backend (API REST)
 Navegar a la carpeta del backend:
 cd backend
@@ -38,6 +35,7 @@ Iniciar el servidor:
 node server.js
 Verificación: Deberías ver en la terminal:
 Servidor corriendo en http://localhost:5000
+
 ### 3. Iniciar el Frontend (React App)
 Abrir una segunda terminal separada y ejecutar:
 cd ../frontend
