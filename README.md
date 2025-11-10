@@ -1,6 +1,6 @@
 # ForIT Tasks - Aplicación de Gestión de Tareas
-Challenge de Ingreso a la Academia ForIT 2025
 Este proyecto es una aplicación Full-Stack para la gestión de tareas (To-Do List) desarrollada para cumplir con los requisitos del Challenge de Ingreso 2025.
+
 ## Características principales
 | Característica | Estado | Requisito | Descripción |
 |----------------|---------|------------|--------------|
